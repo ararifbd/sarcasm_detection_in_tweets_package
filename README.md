@@ -15,10 +15,10 @@ The Sarcasm is used to mock or convey contempt through a sentence or while speak
 ```
 
 # How to run:
-  1. Download the dataset from [https://github.com/syful-is/Sarcasm_detection_package.git](https://github.com/syful-is/Sarcasm_detection_package.git)
+  1. Download the dataset from [https://github.com/ararifbd/sarcasm_detection_in_tweets_package.git](https://github.com/ararifbd/sarcasm_detection_in_tweets_package.git)
   2. Extract the files. 
   3. Clone this repository into your userhome folder in the system and run the code
-  ```https://github.com/syful-is/Sarcasm_detection_package.git```
+  ```https://github.com/ararifbd/sarcasm_detection_in_tweets_package.git```
   3. Open `Jupyter Notebook` or `Python Spyder`.
   4. Copy any code and Set your working directory using 
                 
@@ -36,9 +36,9 @@ The Sarcasm is used to mock or convey contempt through a sentence or while speak
   
   
 # Authors:
-  1. [Arifur Rahman,  MSc student, Dept. of CSTE NSTU, Bangladesh](https://nstu.edu.bd/department/cste)
-  2. [Syful Islam, Nara Institute of Science and Technology (NAIST), Nara, Japan.](https://syful-is.github.io/)
-  3. [Ratnadip kuri](https://nstu.edu.bd/faculty-member/ratnadip-kuri-yky939)
+  1. [Arifur Rahaman,  MSc student, Dept. of CSTE NSTU, Bangladesh](https://nstu.edu.bd/department/cste)
+  2. [Ratnadip kuri](https://nstu.edu.bd/faculty-member/ratnadip-kuri-yky939)
+  3. [Syful Islam, Nara Institute of Science and Technology (NAIST), Nara, Japan.](https://syful-is.github.io/)
   4. [Associate professor Md. Javed Hossain](https://nstu.edu.bd/faculty-member/md-javed-hossain-bdr991)
   5. [Professor Dr. Humayun Kabir](https://nstu.edu.bd/faculty-member/dr-humayun-kabir-95c631)
   
