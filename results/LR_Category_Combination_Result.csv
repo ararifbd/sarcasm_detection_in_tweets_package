@@ -1,0 +1,5 @@
+Feature,P,R,F1,Acc
+sarcastic_lexical_features,72.12,42.43,53.43,63.83
+Sarcastic_contrast_features,72.12,42.43,53.43,63.83
+Sarcastic_context_features,72.12,42.43,53.43,63.83
+contrast_context_features,0.00,0.00,0.00,51.10

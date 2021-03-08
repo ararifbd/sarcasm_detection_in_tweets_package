@@ -1,0 +1,31 @@
+Feature,P,R,F1,Acc
+Noun count,56.80,79.67,66.32,60.43
+Verb count,57.08,64.19,60.43,58.89
+Adverb count,56.45,38.12,45.51,55.36
+Adjective count,53.10,58.49,55.67,54.44
+Positive intensifier,67.64,8.33,14.83,53.23
+Negative intensifier,62.18,2.93,5.59,51.66
+Sentiment score,58.52,45.14,50.97,57.53
+Exclamation,54.49,21.02,30.34,52.80
+Question marks,56.49,13.86,22.25,52.66
+Ellipsis,56.22,14.17,22.63,52.64
+Interjections,56.11,16.46,25.45,52.86
+Repeat letters,54.41,4.24,7.87,51.44
+Vowel repetition count,56.25,2.66,5.08,51.39
+Uppercase,48.96,93.97,64.38,49.15
+Repeat upper case segment,48.89,99.58,65.58,48.89
+Emoji sentiment,50.23,98.30,66.49,51.55
+Laughter count,38.46,0.32,0.63,51.01
+Common sarcastic unigram count,65.37,33.87,44.62,58.89
+Rare sarcastic unigram count,67.33,35.42,46.42,60.02
+Sarcastic slang count,55.60,14.56,23.07,52.54
+Repeated quote count,48.90,100.00,65.68,48.90
+Hashtag sentiment score,67.86,15.31,24.99,55.04
+Bigrams,72.60,43.54,54.43,64.36
+Trigrams,71.29,43.68,54.17,63.86
+Emoji tweet polarity flip,49.02,99.70,65.72,49.15
+PWC after removing negation upto next word,57.42,71.41,63.66,60.13
+NWC after removing negation upto next word,58.59,37.43,45.68,56.47
+polarity flip after removing negation upto next word,65.14,27.11,38.28,57.27
+User mentions,51.67,67.01,58.35,53.23
+Hash tag count,49.00,84.70,62.09,49.42

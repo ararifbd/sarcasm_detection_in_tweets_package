@@ -1,0 +1,5 @@
+Feature,P,R,F1,Acc
+sarcastic_features,82.52,77.77,80.07,81.07
+Sarcastic_contrast_features,91.36,90.21,90.78,91.04
+sarcastic_contrast_context_features,91.60,90.99,91.29,91.51
+all_features,91.62,91.72,91.67,91.84
